@@ -10,11 +10,11 @@ const variables = {
     { quote: "I'm sorry for loving you.", author: "standinhsd" },
     { quote: "I love you.", author: "MEMEX" },
     { quote: "Aku sayang kamu!", author: "MEMEX" },
-    { quote: "Ian sayang Ava ♥", author: "MEMEX!" },
-    { quote: "Love chuuu", author: "AWKAOWKAOWO" },
+    { quote: "JONATHAN BABI", author: "MEMEX!" },
+    { quote: "JONATHAN BABI", author: "AWKAOWKAOWO" },
   ],
-  nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
-  generated: ["{greetings}, Michael kevin Sinaga!"],
+  nicknames: ["BABIKU", "BABIKU", "BABIKU", "BaBIKU", "Cintaku", "Cinta"],
+  generated: ["{greetings}, JONATHAN BABI!"],
 };
 
 const particlesConfig = {
