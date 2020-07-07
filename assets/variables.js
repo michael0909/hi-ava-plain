@@ -8,13 +8,13 @@ const variables = {
   },
   quotes: [
     { quote: "I'm sorry for loving you.", author: "standinhsd" },
-    { quote: "I love you.", author: "Brian" },
-    { quote: "Aku sayang kamu!", author: "Ian" },
-    { quote: "Ian sayang Ava ♥", author: "Ian-nya Ava!" },
-    { quote: "Love chuuu", author: "Bribri" },
+    { quote: "I love you.", author: "Jonathan Sayang" },
+    { quote: "Aku sayang kamu!", author: "Jonathan uwu" },
+    { quote: "Ian sayang Ava ♥", author: "Memek!" },
+    { quote: "Love chuuu", author: "Akwokawkakwo" },
   ],
   nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
-  generated: ["{greetings}, {Michael Kevin Sinaga}!"],
+  generated: ["{greetings}, Michael Kevin Sinaga!"],
 };
 
 const particlesConfig = {
@@ -73,7 +73,7 @@ const particlesConfig = {
     },
     move: {
       enable: true,
-      speed: 3,
+      speed: 2,
       direction: "right",
       random: true,
       straight: false,
