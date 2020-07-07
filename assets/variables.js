@@ -2,7 +2,7 @@ const variables = {
   greetings: {
     morning: "Good Morning",
     day: "Good Day",
-    afternoon: "Good Afternoon",
+    afternoon: "Aku Pengen Ngentod jonathan",
     evening: "Good Evening",
     night: "Good Night",
   },
@@ -14,7 +14,7 @@ const variables = {
     { quote: "Love chuuu", author: "Akwokawkakwo" },
   ],
   nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
-  generated: ["{greetings}, Michael Kevin Sinaga!"],
+  generated: ["{greetings}, Jonathan Kontol!"],
 };
 
 const particlesConfig = {
