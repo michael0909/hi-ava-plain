@@ -2,19 +2,19 @@ const variables = {
   greetings: {
     morning: "Good Morning",
     day: "Good Day",
-    afternoon: "Good Afternoon",
+    afternoon: "BABI",
     evening: "Good Evening",
     night: "Good Night",
   },
   quotes: [
     { quote: "I'm sorry for loving you.", author: "standinhsd" },
-    { quote: "I love you.", author: "Brian" },
-    { quote: "Aku sayang kamu!", author: "Ian" },
-    { quote: "Ian sayang Ava ♥", author: "Ian-nya Ava!" },
-    { quote: "Love chuuu", author: "Bribri" },
+    { quote: "I love you.", author: "MEMEX" },
+    { quote: "Aku sayang kamu!", author: "MEMEX" },
+    { quote: "Ian sayang Ava ♥", author: "MEMEX!" },
+    { quote: "Love chuuu", author: "AWKAOWKAOWO" },
   ],
   nicknames: ["Ava", "Avakuu", "Sayang", "Babe", "Cintaku", "Cinta"],
-  generated: ["{greetings}, {Michael kevin Sinaga}!"],
+  generated: ["{greetings}, Michael kevin Sinaga!"],
 };
 
 const particlesConfig = {
